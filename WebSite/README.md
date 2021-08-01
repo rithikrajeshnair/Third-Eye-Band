@@ -11,6 +11,6 @@ Pre-requisites for locally hosting
         (the default databasename is 'homeleafletdb' and table 'worlddata' and columns 'id','name','homelat','homelng','latitude','longitude','heartbeat','bodytemp')
           if a databasename and tablename is of your choice change it accordingly in the php script of 'index.php' and 'connect.php' files
 
-3)Now locally host 'myfile.json' in the local server and copy its url and paste it in lines 182 and 216 of the 'index.php'.
+3)Now locally host 'myfile.json' in the local server and copy its url and paste it in lines 182 and 216 of the 'index.php'
 
-4)Then locally host the 'index.php' file.
+4)Then locally host the 'index.php' file
