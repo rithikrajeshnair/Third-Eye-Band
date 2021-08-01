@@ -1,4 +1,4 @@
-## band101-web
+## Third-Eye-Band-web
 
 Provides with a web interface to easily visualize and track the movement. Makes use of data collected from the associated hardware unit.
 
